@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 31bf04ff8d0a0f04c9e96c6cba12dd97
+timeCreated: 1504103646
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bloodSplash: {fileID: 1885892160128060, guid: 397133802bd0df9489292050cc606c83,
+      type: 2}
+  - restart: {instanceID: 0}
+  - explosion: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
